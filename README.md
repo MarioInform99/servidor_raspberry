@@ -27,4 +27,5 @@ Comprobamos que el servidor apache esta iniciado, este escucha en el puerto :80/
 ```
 
 <br/>
-<img src="./proceso_ps-ef-grep-apche.PNG/>
+<img src="./proceso_ps-ef-grep-apche.PNG"/>
+<br/>
